@@ -56,3 +56,7 @@ Now just create new console by clicking on Green + button and select console as 
 
 Now you can install [oh-my-ZSH](http://ohmyz.sh/) in your zsh for cool themes :sunglasses:
 
+# Import settings file
+
+To import cmder settings file, simply copy `ConEmu.xml` to `..\Cmder\vendor\conemu-maximus5\`.
+
